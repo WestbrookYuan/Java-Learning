@@ -6,7 +6,12 @@ public class VariableTest {
         int myAge = 23;
         System.out.println(myAge);
         int id;
-        id = 502835;
+        id = 502835; //initialize
         System.out.println(id);
+        System.out.println(testVariable);
+    }
+
+    public void app(){
+        int testVariable = 0;
     }
 }
