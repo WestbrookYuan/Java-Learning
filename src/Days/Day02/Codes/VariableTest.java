@@ -8,10 +8,12 @@ public class VariableTest {
         int id;
         id = 502835; //initialize
         System.out.println(id);
-        System.out.println(testVariable);
+//        System.out.println(testVariable);
+        String str = "hello world";
+        System.out.println(str);
     }
 
-    public void app(){
-        int testVariable = 0;
-    }
+//    public void app(){
+//        int testVariable = 0;
+//    }
 }

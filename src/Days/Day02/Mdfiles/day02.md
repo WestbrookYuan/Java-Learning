@@ -14,6 +14,6 @@ Day02
        * char:
        * boolean
      * reference type:
-       * class
+       * class(ep: String)
        * interface
        * array(__[ ]__)
