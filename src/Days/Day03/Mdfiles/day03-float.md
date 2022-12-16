@@ -15,3 +15,4 @@ Float Variables
 * In float and double, by using different storage ways:
   * can storage more numbers:
     * float uses 4 bytes but can storage more than long
+* [code exapmple](../Codes/FloatTest.java)
