@@ -11,3 +11,4 @@ Day03:
 * [Integer](src/Days/Day03/Mdfiles/day03-integer.md)
 * [Float](src/Days/Day03/Mdfiles/day03-float.md)
 * [Char](src/Days/Day03/Mdfiles/day03-char.md)
+* [Bool](src/Days/Day03/Mdfiles/day03-boolean.md)
