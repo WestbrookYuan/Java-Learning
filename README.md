@@ -12,3 +12,6 @@ Day03:
 * [Float](src/Days/Day03/Mdfiles/day03-float.md)
 * [Char](src/Days/Day03/Mdfiles/day03-char.md)
 * [Bool](src/Days/Day03/Mdfiles/day03-boolean.md)
+
+Day04:
+* [Automatic data type update](src/Days/Day04/Mdfiles/day04-dataUpdate.md)
