@@ -25,10 +25,10 @@ public class VariableTypeTest {
         short s2 = 10;
 
         // all int case
-        short s3 = 10 + c1;
-        char s = c1 + b1;
+        short s3 = (short) (10 + c1);
+        char s = (char) (c1 + b1);
 
         byte b2 = 10;
-        byte b3 = b1 + b2;
+        byte b3 = (byte) (b1 + b2);
     }
 }

@@ -15,3 +15,6 @@ Day03:
 
 Day04:
 * [Automatic data type update](src/Days/Day04/Mdfiles/day04-dataUpdate.md)
+* [Forced data type update](src/Days/Day04/Mdfiles/day04-forceData.md)
+* [Variable computation rules](src/Days/Day04/Mdfiles/day04-variableComputationRules.md)
+* [String](src/Days/Day04/Mdfiles/day04-string.md)
