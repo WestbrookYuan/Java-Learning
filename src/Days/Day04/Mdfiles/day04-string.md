@@ -11,3 +11,5 @@ String
   * **only connect**
   * if two variable has a string, the result will be string
 * [code example](../Codes/StringTest.java)
+
+[Back to Director](https://github.com/WestbrookYuan/Java-Learning/)

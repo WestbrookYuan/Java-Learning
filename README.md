@@ -18,3 +18,8 @@ Day04:
 * [Forced data type update](src/Days/Day04/Mdfiles/day04-forceData.md)
 * [Variable computation rules](src/Days/Day04/Mdfiles/day04-variableComputationRules.md)
 * [String](src/Days/Day04/Mdfiles/day04-string.md)
+* [System Scale](src/Days/Day04/Mdfiles/day04-SystemScale.md)
+
+Day05:
+* [System Convert](src/Days/Day05/Mdfiles/day05-systemScaleConvert.md)
+* [Operators](src/Days/Day05/Mdfiles/day05-operator.md)
