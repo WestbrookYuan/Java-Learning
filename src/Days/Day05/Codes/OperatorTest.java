@@ -62,10 +62,40 @@ public class OperatorTest {
         System.out.println(3 << 2);
         System.out.println(3 >> 1);
         System.out.println(3 >>> 1);
+        System.out.println(21 << 27);
         System.out.println(6 & 3);
         System.out.println(6 | 3);
         System.out.println(6 ^ 5);
         System.out.println(~6);
 
+        int num3 = 10;
+        int num4 = 20;
+        // 1
+        int temp = num3;
+        num3 = num4;
+        num4 = temp;
+        System.out.println(num3);
+        System.out.println(num4);
+        System.out.println();
+        // 2
+        // no temp
+        // overflow and limited(only integers)
+        num3 = num4 + num3;
+        num4 = num3 - num4;
+        num3 = num3 - num4;
+        System.out.println(num3);
+        System.out.println(num4);
+        System.out.println();
+        // 3
+        // Bitwise Operators
+        num3 = (num3 ^ num4);
+        num4 = num3 ^ num4;
+        num3 = num3 ^ num4;
+        System.out.println(num3);
+        System.out.println(num4);
+
+
+        String sb = 1<0? "yty":"syb";
+        System.out.println(sb);
     }
 }
