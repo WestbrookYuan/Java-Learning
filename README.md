@@ -23,3 +23,7 @@ Day04:
 Day05:
 * [System Convert](src/Days/Day05/Mdfiles/day05-systemScaleConvert.md)
 * [Operators](src/Days/Day05/Mdfiles/day05-operator.md)
+
+Day06:
+* [Operator Priority](src/Days/Day06/Mdfiles/day06-Priority.md)
+* [Process Control](src/Days/Day06/Mdfiles/day06-processControl.md)
