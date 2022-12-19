@@ -13,18 +13,26 @@ Operator
     * \-
   * Assignment Operator:
     * =
-  * Relational Operators:
+      * if type is not equal between both sides, forced to convert it.
+      * Can be used continually
+      * if using **Variable+=1**, the type of **Variable** will **not** be changed
+        * _**highly recommended**_ when developing
+  * Relational Operators(all return a boolean):
     * ==
     * !=
     * <
     * <=
     * \>
     * \>=
+    * instance of(**if object equals to a Class**)
   * Logical Operators:
+    * **do not consider remained if true**
+    * **Recommended when development**
     * &&
     * ||
     * !
   * **Bitwise Operators**(used in Leetcode):
+    * **consider remained if true**
     * &: **bit by bit AND** of input Values
     * |: **bit by bit or** of input Values
     * ^: **bit by bit XOR** of input Values

@@ -24,7 +24,48 @@ public class OperatorTest {
         System.out.println("a3:" + a3);
         int b3 = ++a3;
         System.out.println("a3: " + a3 + " b3: "+b3);
+        System.out.println();
+        // %
+        int n = 135;
+        while(n!=0){
+            System.out.println(n % 10);
+            // /=
+            n /= 10;
+        }
+        System.out.println();
+        // =
+        int j1;
+        int j2;
+        j1 = j2 = 10;
+        j2 = 20;
 
+        j1 += (j1++) + (++j1);
+        System.out.println(j1);
+
+        System.out.println();
+        // ==
+        int i = 10;
+        int j = 20;
+        System.out.println(i == j);
+        System.out.println(i = j);
+
+
+
+        // && &
+        boolean b1 = false;
+        int nums1 = 10;
+        System.out.println(b1 & nums1 > 0);
+        System.out.println(b1 && nums1 > 0);
+        System.out.println();
+
+        // >> << >>>
+        System.out.println(3 << 2);
+        System.out.println(3 >> 1);
+        System.out.println(3 >>> 1);
+        System.out.println(6 & 3);
+        System.out.println(6 | 3);
+        System.out.println(6 ^ 5);
+        System.out.println(~6);
 
     }
 }
