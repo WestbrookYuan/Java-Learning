@@ -27,6 +27,22 @@ public class ProcessControlTest {
                 System.out.println(0);
                 break;
         }
+            // init    condition alter
+        int res = 0;
+        for (int i =1; i <= 100; i++){
+            // body
+            if (i % 2 == 0){
+                System.out.println(i);
+                res += i;
+            }
+        }
+        System.out.println(res);
 
+        int i = 0;
+        while(i< 1000){
+            System.out.println(i++);
+        }
     }
+
+
 }

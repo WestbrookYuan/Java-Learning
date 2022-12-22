@@ -44,7 +44,18 @@ Program process control
     > 
     > statement3
 
-* for loop structure
+* loop structure
+  * four part in loop:
+    * init_statment
+    * condition: boolean
+    * body statement
+    * alter statement
+  * for
+    * for(int i=0;i<condi;i+=)
+  * while
+    * remember alter statement
+      * may lead to dead loop
+  * do-while
 * [code example](../Codes/ProcessControlTest.java)
 
 
