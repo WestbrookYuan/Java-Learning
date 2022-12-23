@@ -32,3 +32,7 @@ Day07:
 F**K THIS BOOSTER
 
 Day08:
+* [Loop detail and practice](src/Days/Day08/Mdfiles/Loop.md)
+
+Day09:
+* [array](src/Days/Day09/Mdfiles/arrays.md)
