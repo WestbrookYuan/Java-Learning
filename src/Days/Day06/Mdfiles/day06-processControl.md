@@ -56,6 +56,8 @@ Program process control
     * remember alter statement
       * may lead to dead loop
   * do-while
+    * finish the statements in do first, then consider the while condition
+    * run at least 1 time
 * [code example](../Codes/ProcessControlTest.java)
 
 

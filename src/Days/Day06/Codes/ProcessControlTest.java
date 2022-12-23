@@ -42,6 +42,15 @@ public class ProcessControlTest {
         while(i< 1000){
             System.out.println(i++);
         }
+        i = 10;
+
+
+        do{
+            System.out.println(++i);
+        }
+        while (i< 10);
+
+
     }
 
 

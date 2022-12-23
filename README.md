@@ -27,3 +27,8 @@ Day05:
 Day06:
 * [Operator Priority](src/Days/Day06/Mdfiles/day06-Priority.md)
 * [Process Control](src/Days/Day06/Mdfiles/day06-processControl.md)
+
+Day07:
+F**K THIS BOOSTER
+
+Day08:
