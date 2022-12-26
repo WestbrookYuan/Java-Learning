@@ -38,4 +38,4 @@ Day09:
 * [array](src/Days/Day09/Mdfiles/arrays.md)
 
 Day10:
-* [array algorithms](src/Days/Day10/)
+* [array sort algorithms](src/Days/Day10/)
