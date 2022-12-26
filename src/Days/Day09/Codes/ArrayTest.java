@@ -47,6 +47,36 @@ public class ArrayTest {
         for(int i=0;i<10;i++){
             System.out.println(Arrays.toString(yanghui[i]));
         }
+
+        int[] testArray = {1,2,3,4,5,6,7,8,9,10};
+        System.out.println(binarySearch(testArray, 0));
+    }
+    public static boolean linearSearch(int[] nums, int target){
+        for (int i=0;i<nums.length;i++){
+            if(target == nums[i]){
+                return true;
+            }
+        }
+        return false;
     }
 
+    public static boolean binarySearch(int[] nums, int target){
+        int l = 0;
+        int r = nums.length - 1;
+        int mid;
+        while (l <= r){
+            mid = (r - l) / 2 + l;
+            if (nums[mid] == target){
+                return true;
+            } else if (nums[mid] < target ) {
+                l = mid+1;
+            }
+            else {
+                r = mid-1;
+            }
+        }
+
+        return false;
+
+    }
 }
