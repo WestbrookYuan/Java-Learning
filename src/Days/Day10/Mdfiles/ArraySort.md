@@ -21,6 +21,6 @@ Array sort
         * quick sort
       * Insert
       * Merge
-
+[Code Example](../Codes/ArraySort.java)
 
 [Back to Director](https://github.com/WestbrookYuan/Java-Learning/)
